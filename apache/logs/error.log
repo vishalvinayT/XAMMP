@@ -1,0 +1,326 @@
+[Mon Feb 26 20:39:47.005432 2024] [ssl:warn] [pid 16680:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 20:39:47.046410 2024] [ssl:warn] [pid 16680:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 20:39:47.091384 2024] [mpm_winnt:notice] [pid 16680:tid 468] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 26 20:39:47.091384 2024] [mpm_winnt:notice] [pid 16680:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 26 20:39:47.091384 2024] [core:notice] [pid 16680:tid 468] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Mon Feb 26 20:39:47.095381 2024] [mpm_winnt:notice] [pid 16680:tid 468] AH00418: Parent: Created child process 6800
+[Mon Feb 26 20:39:47.574104 2024] [ssl:warn] [pid 6800:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 20:39:47.613082 2024] [ssl:warn] [pid 6800:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 20:39:47.652060 2024] [mpm_winnt:notice] [pid 6800:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 26 21:56:01.508196 2024] [ssl:warn] [pid 16376:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 21:56:01.545117 2024] [core:warn] [pid 16376:tid 436] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 26 21:56:01.547117 2024] [ssl:warn] [pid 16376:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 21:56:01.596088 2024] [mpm_winnt:notice] [pid 16376:tid 436] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 26 21:56:01.596088 2024] [mpm_winnt:notice] [pid 16376:tid 436] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 26 21:56:01.596088 2024] [core:notice] [pid 16376:tid 436] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Mon Feb 26 21:56:01.600086 2024] [mpm_winnt:notice] [pid 16376:tid 436] AH00418: Parent: Created child process 11812
+[Mon Feb 26 21:56:02.051529 2024] [ssl:warn] [pid 11812:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 21:56:02.086130 2024] [ssl:warn] [pid 11812:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 21:56:02.126089 2024] [mpm_winnt:notice] [pid 11812:tid 428] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 26 22:06:03.227082 2024] [ssl:warn] [pid 17076:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 22:06:03.268567 2024] [core:warn] [pid 17076:tid 436] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 26 22:06:03.270568 2024] [ssl:warn] [pid 17076:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 22:06:03.318729 2024] [mpm_winnt:notice] [pid 17076:tid 436] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 26 22:06:03.318729 2024] [mpm_winnt:notice] [pid 17076:tid 436] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 26 22:06:03.318729 2024] [core:notice] [pid 17076:tid 436] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Mon Feb 26 22:06:03.323725 2024] [mpm_winnt:notice] [pid 17076:tid 436] AH00418: Parent: Created child process 9492
+[Mon Feb 26 22:06:03.818489 2024] [ssl:warn] [pid 9492:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 22:06:03.859256 2024] [ssl:warn] [pid 9492:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 22:06:03.905498 2024] [mpm_winnt:notice] [pid 9492:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 26 22:07:50.048252 2024] [ssl:warn] [pid 17460:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 22:07:50.084238 2024] [core:warn] [pid 17460:tid 424] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 26 22:07:50.086223 2024] [ssl:warn] [pid 17460:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 22:07:50.128197 2024] [mpm_winnt:notice] [pid 17460:tid 424] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 26 22:07:50.128197 2024] [mpm_winnt:notice] [pid 17460:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 26 22:07:50.128197 2024] [core:notice] [pid 17460:tid 424] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Mon Feb 26 22:07:50.132195 2024] [mpm_winnt:notice] [pid 17460:tid 424] AH00418: Parent: Created child process 7236
+[Mon Feb 26 22:07:50.592994 2024] [ssl:warn] [pid 7236:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 22:07:50.627861 2024] [ssl:warn] [pid 7236:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 22:07:50.669156 2024] [mpm_winnt:notice] [pid 7236:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 26 22:07:53.831889 2024] [php:error] [pid 7236:tid 1964] [client 127.0.0.1:58355] script 'E:/Programme/XAMMP/htdocs/setup.php' not found or unable to stat
+[Mon Feb 26 22:42:57.668526 2024] [php:error] [pid 7236:tid 1964] [client 127.0.0.1:59529] script 'E:/Programme/XAMMP/htdocs/setup.php' not found or unable to stat
+[Mon Feb 26 23:25:28.708138 2024] [ssl:warn] [pid 21280:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 23:25:28.742651 2024] [core:warn] [pid 21280:tid 396] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 26 23:25:28.745647 2024] [ssl:warn] [pid 21280:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 23:25:28.786803 2024] [mpm_winnt:notice] [pid 21280:tid 396] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 26 23:25:28.786803 2024] [mpm_winnt:notice] [pid 21280:tid 396] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 26 23:25:28.786803 2024] [core:notice] [pid 21280:tid 396] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Mon Feb 26 23:25:28.789801 2024] [mpm_winnt:notice] [pid 21280:tid 396] AH00418: Parent: Created child process 14900
+[Mon Feb 26 23:25:29.251536 2024] [ssl:warn] [pid 14900:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 26 23:25:29.284498 2024] [ssl:warn] [pid 14900:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Mon Feb 26 23:25:29.324490 2024] [mpm_winnt:notice] [pid 14900:tid 400] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 00:39:35.692412 2024] [ssl:warn] [pid 3516:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 00:39:35.726393 2024] [core:warn] [pid 3516:tid 408] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 00:39:35.729392 2024] [ssl:warn] [pid 3516:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 00:39:35.873308 2024] [mpm_winnt:notice] [pid 3516:tid 408] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 00:39:35.873308 2024] [mpm_winnt:notice] [pid 3516:tid 408] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 00:39:35.873308 2024] [core:notice] [pid 3516:tid 408] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 00:39:35.877305 2024] [mpm_winnt:notice] [pid 3516:tid 408] AH00418: Parent: Created child process 3312
+[Tue Feb 27 00:39:36.248092 2024] [ssl:warn] [pid 3312:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 00:39:36.283072 2024] [ssl:warn] [pid 3312:tid 436] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 00:39:36.329045 2024] [mpm_winnt:notice] [pid 3312:tid 436] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 00:47:27.914447 2024] [ssl:warn] [pid 15284:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 00:47:27.946443 2024] [core:warn] [pid 15284:tid 408] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 00:47:27.949429 2024] [ssl:warn] [pid 15284:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 00:47:27.997400 2024] [mpm_winnt:notice] [pid 15284:tid 408] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 00:47:27.997400 2024] [mpm_winnt:notice] [pid 15284:tid 408] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 00:47:27.997400 2024] [core:notice] [pid 15284:tid 408] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 00:47:28.000397 2024] [mpm_winnt:notice] [pid 15284:tid 408] AH00418: Parent: Created child process 13536
+[Tue Feb 27 00:47:28.347993 2024] [ssl:warn] [pid 13536:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 00:47:28.377976 2024] [ssl:warn] [pid 13536:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 00:47:28.420141 2024] [mpm_winnt:notice] [pid 13536:tid 424] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 01:07:34.998914 2024] [ssl:warn] [pid 14324:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:07:35.028882 2024] [core:warn] [pid 14324:tid 396] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 01:07:35.030882 2024] [ssl:warn] [pid 14324:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:07:35.071215 2024] [mpm_winnt:notice] [pid 14324:tid 396] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 01:07:35.071215 2024] [mpm_winnt:notice] [pid 14324:tid 396] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 01:07:35.071215 2024] [core:notice] [pid 14324:tid 396] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 01:07:35.074199 2024] [mpm_winnt:notice] [pid 14324:tid 396] AH00418: Parent: Created child process 15112
+[Tue Feb 27 01:07:35.430749 2024] [ssl:warn] [pid 15112:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:07:35.460784 2024] [ssl:warn] [pid 15112:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:07:35.501760 2024] [mpm_winnt:notice] [pid 15112:tid 400] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 01:15:06.033945 2024] [ssl:warn] [pid 18192:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:15:06.062929 2024] [core:warn] [pid 18192:tid 396] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 01:15:06.064929 2024] [ssl:warn] [pid 18192:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:15:06.105904 2024] [mpm_winnt:notice] [pid 18192:tid 396] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 01:15:06.105904 2024] [mpm_winnt:notice] [pid 18192:tid 396] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 01:15:06.105904 2024] [core:notice] [pid 18192:tid 396] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 01:15:06.108903 2024] [mpm_winnt:notice] [pid 18192:tid 396] AH00418: Parent: Created child process 18376
+[Tue Feb 27 01:15:06.559623 2024] [ssl:warn] [pid 18376:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:15:06.590887 2024] [ssl:warn] [pid 18376:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:15:06.632865 2024] [mpm_winnt:notice] [pid 18376:tid 412] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 01:25:44.456327 2024] [ssl:warn] [pid 17048:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:25:44.486312 2024] [core:warn] [pid 17048:tid 396] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 01:25:44.489330 2024] [ssl:warn] [pid 17048:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:25:44.531284 2024] [mpm_winnt:notice] [pid 17048:tid 396] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 01:25:44.531284 2024] [mpm_winnt:notice] [pid 17048:tid 396] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 01:25:44.531284 2024] [core:notice] [pid 17048:tid 396] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 01:25:44.534283 2024] [mpm_winnt:notice] [pid 17048:tid 396] AH00418: Parent: Created child process 9656
+[Tue Feb 27 01:25:44.896252 2024] [ssl:warn] [pid 9656:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:25:44.927613 2024] [ssl:warn] [pid 9656:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:25:44.968590 2024] [mpm_winnt:notice] [pid 9656:tid 408] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 01:39:10.808548 2024] [core:error] [pid 9656:tid 1888] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:53141] AH00127: Cannot map GET /public/%3Cbr%20%3E%3C/a%3E%3Cb%3EDeprecated%3C/b%3E:%20%20Creation%20of%20dynamic%20property%20Zend/Mvc/Router/Http/Part::$priority%20is%20deprecated%20in%20%3Cb%3EE:/Programme/XAMMP/htdocs/src/Zend/Mvc/src/Router/Http/TreeRouteStack.php%3C/b%3E%20on%20line%20%3Cb%3E223%3C/b%3E%3Cbr%20/%3E/public/backend/booking HTTP/1.1 to file, referer: http://localhost/public/
+[Tue Feb 27 01:56:50.445024 2024] [ssl:warn] [pid 17640:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:56:50.500991 2024] [core:warn] [pid 17640:tid 420] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 01:56:50.505989 2024] [ssl:warn] [pid 17640:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:56:50.987716 2024] [mpm_winnt:notice] [pid 17640:tid 420] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 01:56:50.987716 2024] [mpm_winnt:notice] [pid 17640:tid 420] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 01:56:50.987716 2024] [core:notice] [pid 17640:tid 420] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 01:56:50.991729 2024] [mpm_winnt:notice] [pid 17640:tid 420] AH00418: Parent: Created child process 2892
+[Tue Feb 27 01:56:51.420013 2024] [ssl:warn] [pid 2892:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 01:56:51.463983 2024] [ssl:warn] [pid 2892:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 01:56:51.522959 2024] [mpm_winnt:notice] [pid 2892:tid 452] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 27 21:07:53.500196 2024] [ssl:warn] [pid 16152:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 21:07:53.533167 2024] [core:warn] [pid 16152:tid 404] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 27 21:07:53.535167 2024] [ssl:warn] [pid 16152:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 21:07:53.959922 2024] [mpm_winnt:notice] [pid 16152:tid 404] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Tue Feb 27 21:07:53.959922 2024] [mpm_winnt:notice] [pid 16152:tid 404] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Feb 27 21:07:53.959922 2024] [core:notice] [pid 16152:tid 404] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Tue Feb 27 21:07:53.962936 2024] [mpm_winnt:notice] [pid 16152:tid 404] AH00418: Parent: Created child process 20244
+[Tue Feb 27 21:07:54.424299 2024] [ssl:warn] [pid 20244:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 27 21:07:54.458281 2024] [ssl:warn] [pid 20244:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Tue Feb 27 21:07:54.499256 2024] [mpm_winnt:notice] [pid 20244:tid 408] AH00354: Child: Starting 150 worker threads.
+[Wed Feb 28 17:41:55.628679 2024] [ssl:warn] [pid 10928:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 28 17:41:55.669651 2024] [core:warn] [pid 10928:tid 416] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 28 17:41:55.672651 2024] [ssl:warn] [pid 10928:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Wed Feb 28 17:41:56.131007 2024] [mpm_winnt:notice] [pid 10928:tid 416] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 28 17:41:56.131007 2024] [mpm_winnt:notice] [pid 10928:tid 416] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 28 17:41:56.131007 2024] [core:notice] [pid 10928:tid 416] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Wed Feb 28 17:41:56.134008 2024] [mpm_winnt:notice] [pid 10928:tid 416] AH00418: Parent: Created child process 11944
+[Wed Feb 28 17:41:56.517906 2024] [ssl:warn] [pid 11944:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 28 17:41:56.562881 2024] [ssl:warn] [pid 11944:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Wed Feb 28 17:41:56.620847 2024] [mpm_winnt:notice] [pid 11944:tid 408] AH00354: Child: Starting 150 worker threads.
+[Wed Feb 28 17:52:11.647980 2024] [ssl:warn] [pid 15920:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 28 17:52:11.680958 2024] [core:warn] [pid 15920:tid 400] AH00098: pid file E:/Programme/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 28 17:52:11.682958 2024] [ssl:warn] [pid 15920:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Wed Feb 28 17:52:11.724948 2024] [mpm_winnt:notice] [pid 15920:tid 400] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Feb 28 17:52:11.724948 2024] [mpm_winnt:notice] [pid 15920:tid 400] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Feb 28 17:52:11.724948 2024] [core:notice] [pid 15920:tid 400] AH00094: Command line: 'e:\\programme\\xammp\\apache\\bin\\httpd.exe -d E:/Programme/XAMMP/apache'
+[Wed Feb 28 17:52:11.727934 2024] [mpm_winnt:notice] [pid 15920:tid 400] AH00418: Parent: Created child process 8296
+[Wed Feb 28 17:52:12.072744 2024] [ssl:warn] [pid 8296:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 28 17:52:12.103919 2024] [ssl:warn] [pid 8296:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: E:\\Programme\\XAMMP\\php\\ext\\pdo_sqlit (Das angegebene Modul wurde nicht gefunden), E:\\Programme\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (Das angegebene Modul wurde nicht gefunden)) in Unknown on line 0
+[Wed Feb 28 17:52:12.145894 2024] [mpm_winnt:notice] [pid 8296:tid 400] AH00354: Child: Starting 150 worker threads.
+[Wed Feb 28 17:52:14.579094 2024] [core:alert] [pid 8296:tid 1904] [client 127.0.0.1:60749] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context, referer: http://localhost/public/user/login
+[Wed Feb 28 17:52:16.624312 2024] [core:alert] [pid 8296:tid 1904] [client 127.0.0.1:60751] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context, referer: http://localhost/public/user/login
+[Wed Feb 28 17:52:22.118348 2024] [core:alert] [pid 8296:tid 1904] [client 127.0.0.1:60753] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Wed Feb 28 17:52:22.133339 2024] [core:alert] [pid 8296:tid 1904] [client 127.0.0.1:60754] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Wed Feb 28 17:52:26.169992 2024] [core:alert] [pid 8296:tid 1904] [client 127.0.0.1:60757] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Wed Feb 28 17:55:41.461772 2024] [core:alert] [pid 8296:tid 1880] [client 127.0.0.1:60932] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Wed Feb 28 17:55:49.544777 2024] [core:alert] [pid 8296:tid 1904] [client 127.0.0.1:60936] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context, referer: http://localhost/public/user/login
+[Wed Feb 28 17:58:18.124929 2024] [core:error] [pid 8296:tid 1884] [client 127.0.0.1:60998] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://localhost/public/user/login
+[Wed Feb 28 18:04:35.777979 2024] [core:error] [pid 8296:tid 1904] [client 127.0.0.1:65368] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Wed Feb 28 18:04:54.981110 2024] [core:error] [pid 8296:tid 1880] [client 127.0.0.1:65376] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://localhost/public/setup.php/
+[Wed Feb 28 18:07:25.940876 2024] [core:error] [pid 8296:tid 1876] [client 127.0.0.1:65482] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://localhost/public/
+[Wed Feb 28 18:11:27.145050 2024] [core:alert] [pid 8296:tid 1876] [client 127.0.0.1:49296] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Wed Feb 28 18:11:28.035486 2024] [core:alert] [pid 8296:tid 1876] [client 127.0.0.1:49297] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Wed Feb 28 18:11:28.751203 2024] [core:alert] [pid 8296:tid 1876] [client 127.0.0.1:49299] E:/Programme/XAMMP/htdocs/public/.htaccess: RewriteBase takes one argument, the base URL of the per-directory context
+[Sat May 04 10:19:48.487536 2024] [ssl:warn] [pid 20980:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 10:19:48.554580 2024] [core:warn] [pid 20980:tid 388] AH00098: pid file C:/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 04 10:19:48.554580 2024] [ssl:warn] [pid 20980:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 10:19:49.979049 2024] [mpm_winnt:notice] [pid 20980:tid 388] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 10:19:49.979049 2024] [mpm_winnt:notice] [pid 20980:tid 388] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 10:19:49.979049 2024] [core:notice] [pid 20980:tid 388] AH00094: Command line: 'c:\\xammp\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 10:19:49.994716 2024] [mpm_winnt:notice] [pid 20980:tid 388] AH00418: Parent: Created child process 2640
+[Sat May 04 10:19:50.339632 2024] [ssl:warn] [pid 2640:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 10:19:50.402785 2024] [ssl:warn] [pid 2640:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 10:19:50.449528 2024] [mpm_winnt:notice] [pid 2640:tid 360] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 10:20:03.612813 2024] [mpm_winnt:crit] [pid 2640:tid 360] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat May 04 11:59:34.360968 2024] [ssl:warn] [pid 23588:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 11:59:34.414597 2024] [core:warn] [pid 23588:tid 440] AH00098: pid file C:/XAMMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 04 11:59:34.417596 2024] [ssl:warn] [pid 23588:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 11:59:34.513666 2024] [mpm_winnt:notice] [pid 23588:tid 440] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 11:59:34.513666 2024] [mpm_winnt:notice] [pid 23588:tid 440] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 11:59:34.513666 2024] [core:notice] [pid 23588:tid 440] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 11:59:34.521328 2024] [mpm_winnt:notice] [pid 23588:tid 440] AH00418: Parent: Created child process 9932
+Apache server interrupted...
+024] [ssl:warn] [pid 9932:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 11:59:35.036305 2024] [ssl:warn] [pid 9932:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 11:59:35.094397 2024] [mpm_winnt:notice] [pid 9932:tid 416] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 11:59:57.414652 2024] [mpm_winnt:notice] [pid 23588:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Sat May 04 11:59:59.432021 2024] [mpm_winnt:notice] [pid 9932:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 04 11:59:59.487703 2024] [mpm_winnt:notice] [pid 23588:tid 440] AH00430: Parent: Child process 9932 exited successfully.
+[Sat May 04 12:27:38.756663 2024] [ssl:warn] [pid 25124:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 12:27:38.810750 2024] [ssl:warn] [pid 25124:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 12:27:38.915394 2024] [mpm_winnt:notice] [pid 25124:tid 360] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 12:27:38.915394 2024] [mpm_winnt:notice] [pid 25124:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 12:27:38.915394 2024] [core:notice] [pid 25124:tid 360] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 12:27:38.925468 2024] [mpm_winnt:notice] [pid 25124:tid 360] AH00418: Parent: Created child process 5988
+[Sat May 04 12:27:39.214279 2024] [ssl:warn] [pid 5988:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 12:27:39.276841 2024] [ssl:warn] [pid 5988:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 12:27:39.324204 2024] [mpm_winnt:notice] [pid 5988:tid 392] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 12:28:19.831094 2024] [php:error] [pid 5988:tid 1920] [client ::1:63413] script 'C:/XAMMP/htdocs/setup.php' not found or unable to stat
+[Sat May 04 15:14:16.931662 2024] [mpm_winnt:notice] [pid 25124:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 15:14:19.072441 2024] [mpm_winnt:notice] [pid 5988:tid 392] AH00364: Child: All worker threads have exited.
+[Sat May 04 15:14:19.985056 2024] [mpm_winnt:notice] [pid 25124:tid 360] AH00430: Parent: Child process 5988 exited successfully.
+[Sat May 04 15:14:51.916211 2024] [ssl:warn] [pid 56328:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:14:51.979174 2024] [ssl:warn] [pid 56328:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:14:52.089444 2024] [mpm_winnt:notice] [pid 56328:tid 368] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 15:14:52.089444 2024] [mpm_winnt:notice] [pid 56328:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 15:14:52.089444 2024] [core:notice] [pid 56328:tid 368] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 15:14:52.089444 2024] [mpm_winnt:notice] [pid 56328:tid 368] AH00418: Parent: Created child process 57204
+[Sat May 04 15:14:52.435213 2024] [ssl:warn] [pid 57204:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:14:52.482568 2024] [ssl:warn] [pid 57204:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:14:52.592499 2024] [mpm_winnt:notice] [pid 57204:tid 376] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 15:19:50.945469 2024] [mpm_winnt:notice] [pid 56328:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 15:19:52.968545 2024] [mpm_winnt:notice] [pid 57204:tid 376] AH00364: Child: All worker threads have exited.
+[Sat May 04 15:19:53.015855 2024] [mpm_winnt:notice] [pid 56328:tid 368] AH00430: Parent: Child process 57204 exited successfully.
+[Sat May 04 15:19:57.248296 2024] [ssl:warn] [pid 53140:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:19:57.311178 2024] [ssl:warn] [pid 53140:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:19:57.342437 2024] [mpm_winnt:notice] [pid 53140:tid 336] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 15:19:57.342437 2024] [mpm_winnt:notice] [pid 53140:tid 336] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 15:19:57.342437 2024] [core:notice] [pid 53140:tid 336] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 15:19:57.358132 2024] [mpm_winnt:notice] [pid 53140:tid 336] AH00418: Parent: Created child process 29672
+[Sat May 04 15:19:57.782756 2024] [ssl:warn] [pid 29672:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:19:57.878190 2024] [ssl:warn] [pid 29672:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:19:57.939687 2024] [mpm_winnt:notice] [pid 29672:tid 400] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 15:20:01.932683 2024] [mpm_winnt:notice] [pid 53140:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 15:20:03.960375 2024] [mpm_winnt:notice] [pid 29672:tid 400] AH00364: Child: All worker threads have exited.
+[Sat May 04 15:20:03.997904 2024] [mpm_winnt:notice] [pid 53140:tid 336] AH00430: Parent: Child process 29672 exited successfully.
+[Sat May 04 15:20:17.396642 2024] [ssl:warn] [pid 56376:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:20:17.458564 2024] [ssl:warn] [pid 56376:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:20:17.509442 2024] [mpm_winnt:notice] [pid 56376:tid 368] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 15:20:17.509442 2024] [mpm_winnt:notice] [pid 56376:tid 368] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 15:20:17.509442 2024] [core:notice] [pid 56376:tid 368] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 15:20:17.522452 2024] [mpm_winnt:notice] [pid 56376:tid 368] AH00418: Parent: Created child process 51872
+[Sat May 04 15:20:17.841285 2024] [ssl:warn] [pid 51872:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:20:17.899241 2024] [ssl:warn] [pid 51872:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:20:17.962159 2024] [mpm_winnt:notice] [pid 51872:tid 352] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 15:21:39.671892 2024] [mpm_winnt:notice] [pid 56376:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 15:21:41.685358 2024] [mpm_winnt:notice] [pid 51872:tid 352] AH00364: Child: All worker threads have exited.
+[Sat May 04 15:21:41.733347 2024] [mpm_winnt:notice] [pid 56376:tid 368] AH00430: Parent: Child process 51872 exited successfully.
+[Sat May 04 15:21:47.139072 2024] [ssl:warn] [pid 58176:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:21:47.186789 2024] [ssl:warn] [pid 58176:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:21:47.233869 2024] [mpm_winnt:notice] [pid 58176:tid 360] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 15:21:47.233869 2024] [mpm_winnt:notice] [pid 58176:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 15:21:47.233869 2024] [core:notice] [pid 58176:tid 360] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 15:21:47.233869 2024] [mpm_winnt:notice] [pid 58176:tid 360] AH00418: Parent: Created child process 58236
+[Sat May 04 15:21:47.658434 2024] [ssl:warn] [pid 58236:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:21:47.721548 2024] [ssl:warn] [pid 58236:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:21:47.754376 2024] [mpm_winnt:notice] [pid 58236:tid 384] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 15:22:35.439813 2024] [mpm_winnt:notice] [pid 58176:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 15:22:37.468230 2024] [mpm_winnt:notice] [pid 58236:tid 384] AH00364: Child: All worker threads have exited.
+[Sat May 04 15:22:37.515216 2024] [mpm_winnt:notice] [pid 58176:tid 360] AH00430: Parent: Child process 58236 exited successfully.
+[Sat May 04 15:40:14.817447 2024] [ssl:warn] [pid 4900:tid 176] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:40:14.922484 2024] [ssl:warn] [pid 4900:tid 176] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:40:15.410057 2024] [mpm_winnt:notice] [pid 4900:tid 176] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 15:40:15.410057 2024] [mpm_winnt:notice] [pid 4900:tid 176] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 15:40:15.410057 2024] [core:notice] [pid 4900:tid 176] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 15:40:15.414058 2024] [mpm_winnt:notice] [pid 4900:tid 176] AH00418: Parent: Created child process 8400
+[Sat May 04 15:40:17.357566 2024] [ssl:warn] [pid 8400:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:40:17.437432 2024] [ssl:warn] [pid 8400:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:40:17.547252 2024] [mpm_winnt:notice] [pid 8400:tid 352] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 15:41:43.318132 2024] [mpm_winnt:notice] [pid 4900:tid 176] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 15:41:45.336859 2024] [mpm_winnt:notice] [pid 8400:tid 352] AH00364: Child: All worker threads have exited.
+[Sat May 04 15:41:45.385790 2024] [mpm_winnt:notice] [pid 4900:tid 176] AH00430: Parent: Child process 8400 exited successfully.
+[Sat May 04 15:42:32.693601 2024] [ssl:warn] [pid 2408:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:42:32.756135 2024] [ssl:warn] [pid 2408:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:42:33.306044 2024] [mpm_winnt:notice] [pid 2408:tid 360] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 15:42:33.306044 2024] [mpm_winnt:notice] [pid 2408:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 15:42:33.306044 2024] [core:notice] [pid 2408:tid 360] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 15:42:33.321670 2024] [mpm_winnt:notice] [pid 2408:tid 360] AH00418: Parent: Created child process 10932
+[Sat May 04 15:42:33.636477 2024] [ssl:warn] [pid 10932:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 15:42:33.701287 2024] [ssl:warn] [pid 10932:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 15:42:33.747187 2024] [mpm_winnt:notice] [pid 10932:tid 376] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 22:51:02.988856 2024] [mpm_winnt:notice] [pid 2408:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 22:51:33.089085 2024] [mpm_winnt:notice] [pid 2408:tid 360] AH00431: Parent: Forcing termination of child process 10932
+[Sat May 04 22:52:24.672444 2024] [ssl:warn] [pid 52072:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 22:52:24.719364 2024] [ssl:warn] [pid 52072:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 22:52:24.813658 2024] [mpm_winnt:notice] [pid 52072:tid 360] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Sat May 04 22:52:24.813658 2024] [mpm_winnt:notice] [pid 52072:tid 360] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat May 04 22:52:24.813658 2024] [core:notice] [pid 52072:tid 360] AH00094: Command line: 'C:\\XAMMP\\apache\\bin\\httpd.exe -d C:/XAMMP/apache'
+[Sat May 04 22:52:24.829312 2024] [mpm_winnt:notice] [pid 52072:tid 360] AH00418: Parent: Created child process 50948
+[Sat May 04 22:52:25.137078 2024] [ssl:warn] [pid 50948:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 04 22:52:25.169855 2024] [ssl:warn] [pid 50948:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlit' (tried: C:\\XAMMP\\php\\ext\\pdo_sqlit (The specified module could not be found), C:\\XAMMP\\php\\ext\\php_pdo_sqlit.dll (The specified module could not be found)) in Unknown on line 0
+[Sat May 04 22:52:25.232416 2024] [mpm_winnt:notice] [pid 50948:tid 364] AH00354: Child: Starting 150 worker threads.
+[Sat May 04 22:52:51.248025 2024] [mpm_winnt:notice] [pid 52072:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 04 22:53:21.257042 2024] [mpm_winnt:notice] [pid 52072:tid 360] AH00431: Parent: Forcing termination of child process 50948
